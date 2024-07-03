@@ -1,0 +1,113 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    vertical-align: middle;
+    /* padding-left: 30px; */
+    border-radius: 100%;
+}
+li{
+    display: inline;
+    list-style-type: none;
+    padding: 90px;
+    text-decoration: none;
+}
+.head{
+     background-color: #2596be;
+}
+.img0{
+    height: 650px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+p{
+    height: 500px;
+    width: 500px;
+    margin-left: 80px;
+    margin-top: 50px;
+    margin-right: 100px;
+    font-size: 19px;
+    text-align: left;
+}
+.aboutus{
+    display: flex;
+}
+.aboutimg{
+    height: 400px;
+    width: 700px;
+    border-radius: 50px;
+    margin-top: 50px;
+}
+.service{
+    display: flex;
+    height: 400px;
+    width: 700px;
+    margin-left: 90px;
+    margin-bottom: 50px;
+}
+.s1{
+    border-radius: 50px;
+}
+.s2{
+    margin-left: 40px;
+    border-radius: 50px;
+}
+.s3{
+    margin-left: 40px;
+    border-radius: 50px;
+}
+.product{
+    display: flex;
+    height: 400px;
+    width: 700px;
+    margin-left: 90px;
+    margin-bottom: 50px;
+}
+.p1{
+    margin-left: 40px;
+    border-radius: 50px;
+}
+.p2{
+    margin-left: 40px;
+    border-radius: 50px;
+}
+.p3{
+    margin-left: 40px;
+    border-radius: 50px;
+}
+.p4{
+    height: 400px;
+    width: 400px;
+    margin-left: 40px;
+    border-radius: 50px;
+    margin-bottom: 50px;
+}
+.contact{
+    text-align: center;
+    align-items: center;
+}
+.b1{
+    margin-right: 20px;
+    margin-bottom: 30px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+.b2{
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+.footer{
+    background-color: blue;
+    height: 70px;
+    padding-top: 35px;
+    color: white;
+}
